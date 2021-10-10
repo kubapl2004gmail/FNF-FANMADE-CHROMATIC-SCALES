@@ -46,8 +46,6 @@ UTAU Resamplers: https://utaforum.net/threads/utau-resampler-directory.538/
 
 CREDIT:
 
-ExtendedCentral Voicebanks: https://github.com/ExtendedCentral/FNF-FANMADE-Chromatic-Scales
-
 Blantados Voicebanks: https://github.com/Blantados/blantados-funkin-utau-main
 
 GenoX Voicebanks: https://github.com/GenoX-Fome/funkin-utau
