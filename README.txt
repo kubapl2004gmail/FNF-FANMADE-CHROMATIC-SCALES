@@ -1,4 +1,4 @@
-Hi! These are the chromatic scales i made using genox's and blantados's voicebanks (links at bottom)
+Hi! These are the chromatic scales i made using genox's, xzh3r's, And blantados's voicebanks (links at bottom)
 
 
 PLEASE READ INSTRUCTIONS FOR USE BELOW
@@ -46,9 +46,10 @@ UTAU Resamplers: https://utaforum.net/threads/utau-resampler-directory.538/
 
 CREDIT:
 
-ExtendedCentral Voicebanks: https://github.com/ExtendedCentral/FNF-FANMADE-Chromatic-Scales
+BBPanzu Chroms: https://github.com/bbpanzu/bb-fnf-mods
 
 Blantados Voicebanks: https://github.com/Blantados/blantados-funkin-utau-main
 
 GenoX Voicebanks: https://github.com/GenoX-Fome/funkin-utau
 
+xzh3r's Voicebanks: https://github.com/xzh3r/xzh3r-utau
