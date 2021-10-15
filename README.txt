@@ -45,8 +45,8 @@ you don't really need utau since everything is already a predone chromatic but j
 UTAU Resamplers: https://utaforum.net/threads/utau-resampler-directory.538/
 
 CREDIT:
- 
-SansTheGamingComic: Sonic Chromatic
+
+BBPanzu Chroms: https://github.com/bbpanzu/bb-fnf-mods
 
 Blantados Voicebanks: https://github.com/Blantados/blantados-funkin-utau-main
 
