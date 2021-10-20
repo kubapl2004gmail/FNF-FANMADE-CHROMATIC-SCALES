@@ -53,3 +53,7 @@ Blantados Voicebanks: https://github.com/Blantados/blantados-funkin-utau-main
 GenoX Voicebanks: https://github.com/GenoX-Fome/funkin-utau
 
 xzh3r's Voicebanks: https://github.com/xzh3r/xzh3r-utau
+
+Extended Central's chroms: https://github.com/ExtendedCentral/FNF-FANMADE-Chromatic-Scales
+
+Bonnie's voicebanks https://github.com/Bonnie-Thebunbuns09/Bonnie09-Voicebanks
