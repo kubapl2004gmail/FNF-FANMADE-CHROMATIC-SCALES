@@ -4,11 +4,11 @@ UST Version1.2
 Tempo=120.00
 Tracks=1
 ProjectName=New Project
-VoiceDir=C:\Users\trist\Downloads\Chromatics 2.0\Aflac Voicebanks
-OutFile=Updike chrom long.wav
+VoiceDir=%VOICE%juls NEW
+OutFile=C:\Users\trist\Desktop\Juls chrom FINAL I think.wav
 CacheDir=Chom Template long.cache
 Tool1=wavtool.exe
-Tool2=resampler.exe
+Tool2=moresampler.exe
 [#0000]
 Length=1920
 Lyric=a
@@ -35,7 +35,7 @@ NoteNum=37
 PreUtterance=
 [#0004]
 Length=1920
-Lyric=u
+Lyric=i
 NoteNum=38
 PreUtterance=
 Intensity=100
@@ -119,7 +119,7 @@ NoteNum=44
 PreUtterance=
 [#0018]
 Length=1920
-Lyric=u
+Lyric=a
 NoteNum=45
 PreUtterance=
 Intensity=100
@@ -156,7 +156,7 @@ PreUtterance=
 [#0024]
 Length=1920
 Lyric=i
-NoteNum=47
+NoteNum=48
 PreUtterance=
 Intensity=100
 Modulation=0
@@ -227,7 +227,7 @@ NoteNum=53
 PreUtterance=
 [#0036]
 Length=1920
-Lyric=u
+Lyric=o
 NoteNum=54
 PreUtterance=
 Intensity=100
@@ -299,7 +299,7 @@ NoteNum=59
 PreUtterance=
 [#0048]
 Length=1920
-Lyric=u
+Lyric=e
 NoteNum=60
 PreUtterance=
 Intensity=100
@@ -371,7 +371,7 @@ NoteNum=65
 PreUtterance=
 [#0060]
 Length=1920
-Lyric=u
+Lyric=a
 NoteNum=66
 PreUtterance=
 Intensity=100
