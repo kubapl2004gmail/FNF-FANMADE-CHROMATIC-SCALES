@@ -10,12 +10,9 @@ PLEASE READ INSTRUCTIONS FOR USE BELOW
 THIS IS MEANT FOR FL STUDIO CAUSE IDK HOW OTHER PROGRAMS WORK SO INSTRUCTIONS MIGHT VARY
 
        
-It should be seperated into 3 files, Chromatics, Characters, And soundfonts.
+It should be seperated into 2 files, Chromatics, And Characters.
 
 Explaing what shit means:
-
-Soundfonts: A soundfont (.SF2) Is a file similar to the slicex file but you need a seperate pluginn, "Fruity Soundfont Player" Is required 
-which means you need to switch to 32 bit fl studio to use it
 
 Chroms: In each chromatic folder there should be 3 audio files, "CharacterName Chrom short" "CharacterName Chrom short alt" and "CharacterName Chrom long"
 Some won't have an alt audio file meaning it only has one vowel, The alt audio files have the same note length as the normal short exept with vowels switched around.
@@ -26,10 +23,6 @@ these are there because there is nno point of making a chromatic cause it's a si
  so it already sounds fine through normal pitching, So no chromatic needed
 
 How to use:
-
-Soundfont: In the fruity soundnfont player there should be a little folder at the top right, Once you click that locate the sf2 file and select it
-Sometimes soundfonts have multiple patches or banks which means different vowels like the matt or shaggy soundfont. Most should already be set to patch 1 and bank 0
-And have vowels mixed by default, After it's loaded just open piano roll and map out whatever you want
 
 Chroms: Every chrom audio file has it's corresponding FST file For slicex, Just openn the fst file and it should open slicex, 
 It should be auto sliced so just openn piano roll and have fun! they might not all sounnd perfect so i'm sorry 
@@ -57,3 +50,5 @@ xzh3r's Voicebanks: https://github.com/xzh3r/xzh3r-utau
 Extended Central's chroms: https://github.com/ExtendedCentral/FNF-FANMADE-Chromatic-Scales
 
 Bonnie's voicebanks https://github.com/Bonnie-Thebunbuns09/Bonnie09-Voicebanks
+
+Idk all the people that made some of these so if you wan't credit just lmk
